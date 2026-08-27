@@ -69,6 +69,7 @@ Understanding the crucial role network security plays when developing and deploy
 Documenting technical reconnaissance data for formal security reporting.  
 
 ### Files Included
-nmap_scan.txt – The raw, saved Nmap scan output.
+* `nmap_scan.txt` – Saved Nmap scan results
+* `nmap_scan_result.png` – Screenshot of the scan results
 
 nmap_scan_result.png – Visual documentation of the terminal scan results.
