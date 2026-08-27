@@ -1,4 +1,4 @@
-##Cyber Security Internship – Task 1: Network Reconnaissance
+## Cyber Security Internship – Task 1: Network Reconnaissance
 Introduction
 As part of the first phase of my cybersecurity internship, I conducted a practical network reconnaissance exercise. The activity focused on actively mapping a local network environment to identify live hosts and active services. This foundational task simulates the initial steps a security analyst or penetration tester takes when evaluating a network's attack surface.
 
