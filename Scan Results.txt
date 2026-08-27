@@ -12,19 +12,16 @@ PORT     STATE SERVICE
 53/tcp   open  domain
 80/tcp   open  http
 1900/tcp open  upnp
-MAC Address: 8C:86:DD:5B:3D:CE (TP-Link Systems)
 
 Nmap scan report for 192.168.0.5
 Host is up (0.011s latency).
 All 1000 scanned ports on 192.168.0.5 are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: BA:9F:76:D6:C6:51 (Unknown)
 
 Nmap scan report for 192.168.0.6
 Host is up (0.010s latency).
 All 1000 scanned ports on 192.168.0.6 are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
-MAC Address: 72:CF:B3:09:76:E8 (Unknown)
 
 Nmap scan report for 192.168.0.7
 Host is up (0.00041s latency).
