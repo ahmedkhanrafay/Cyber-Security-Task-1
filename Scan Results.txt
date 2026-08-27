@@ -1,0 +1,40 @@
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>nmap -sS 192.168.0.0/24
+Starting Nmap 7.991 ( https://nmap.org ) at 2026-08-27 19:23 +0530
+Nmap scan report for 192.168.0.1
+Host is up (0.0024s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+23/tcp   open  telnet
+53/tcp   open  domain
+80/tcp   open  http
+1900/tcp open  upnp
+MAC Address: 8C:86:DD:5B:3D:CE (TP-Link Systems)
+
+Nmap scan report for 192.168.0.5
+Host is up (0.011s latency).
+All 1000 scanned ports on 192.168.0.5 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: BA:9F:76:D6:C6:51 (Unknown)
+
+Nmap scan report for 192.168.0.6
+Host is up (0.010s latency).
+All 1000 scanned ports on 192.168.0.6 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 72:CF:B3:09:76:E8 (Unknown)
+
+Nmap scan report for 192.168.0.7
+Host is up (0.00041s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap done: 256 IP addresses (4 hosts up) scanned in 7.63 seconds
+
+C:\Windows\system32>
