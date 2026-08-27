@@ -54,19 +54,12 @@ The default port for MySQL databases. Risk: Exposure to the wider network invite
 The presence of an open port simply indicates that a service is listening; it does not guarantee a vulnerability. However, every open port expands the system's attack surface. During this scan, the discovery of database and file-sharing ports on a local machine highlights the importance of internal network segmentation. Services that are not strictly necessary should be disabled. For required services, robust firewall rules must be implemented to restrict access exclusively to trusted network traffic.  
 
 ### What I Learned
-Through the successful completion of this task, I developed practical skills in:
-
-Determining local network ranges and identifying active IP allocations.  
-
-Executing and analyzing TCP SYN scans using command-line interface tools.  
-
-Mapping raw port numbers to their corresponding network services and protocols.  
-
-Evaluating the security posture of Database Management Systems by identifying exposed backend infrastructure.
-
-Understanding the crucial role network security plays when developing and deploying software, ensuring that future Java applications and databases are configured with network safety in mind.
-
-Documenting technical reconnaissance data for formal security reporting.  
+- Determining local network ranges and identifying active IP allocations.
+- Executing and analyzing TCP SYN scans using command-line interface tools.
+- Mapping raw port numbers to their corresponding network services and protocols.
+- Evaluating the security posture of Database Management Systems by identifying exposed backend infrastructure.
+- Understanding the crucial role network security plays when developing and deploying software, ensuring that future Java applications and databases are configured with network safety in mind.
+- Documenting technical reconnaissance data for formal security reporting.
 
 ### Files Included
 * `nmap_scan.txt` – Saved Nmap scan results
